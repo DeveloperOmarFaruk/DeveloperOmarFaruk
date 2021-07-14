@@ -1,7 +1,10 @@
 ### Hello, I'm Md. Omar Faruk 👋
 
 If you'd like to talk about a project, my work or anything else then contact with me here -
-[LinkedIn - @omar-faruk](https://www.linkedin.com/in/omar-faruk-a16077190/)
+[LinkedIn - @omar-faruk](https://www.linkedin.com/in/omar-faruk-a16077190/) ,
+[Twitter - @omarfaruk](https://twitter.com/omarfaruk_181) , 
+[FB - @mdomarfaruk](https://www.facebook.com/profile.php?id=100018059885354) ,
+[Email -](developer.omarfaruk@gmail.com)
 
 Here are some ideas to get you started:
 
