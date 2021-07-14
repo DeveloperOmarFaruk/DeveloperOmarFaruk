@@ -6,7 +6,6 @@ If you'd like to talk about a project, my work or anything else then contact wit
 [Facebook - @mdomarfaruk](https://www.facebook.com/profile.php?id=100018059885354) ,
 Email: developer.omarfaruk@gmail.com
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently student at Daffodil International University, Ashulia, Dhaka.
 - 🌱 I’m currently learning MongoDB, Node.js, Express, TypeScript, Redux...
