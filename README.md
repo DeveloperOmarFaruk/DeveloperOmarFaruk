@@ -14,3 +14,9 @@ Email: developer.omarfaruk@gmail.com
 - 📫 I also work: HTML5, CSS3, SASS, Bootstrap, Tailwindcss, JavaScript...
 - ⚡ Fun fact: I Love Travelling...
 
+
+- 💻 I work in the Fiverr and Upwork marketplace.
+     This is my marketplace profile Link.
+     Fiverr: https://www.fiverr.com/omarfaruk181?up_rollout=true
+     Upwork: https://www.upwork.com/freelancers/~01314f004631998ab6
+
