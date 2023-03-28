@@ -17,8 +17,8 @@ Email: developer.omarfaruk@gmail.com
 
 - 💻 I work in the Fiverr, Upwork, Freelancer, Peopleperhour marketplace.
      This is my marketplace profile Link.
-     Fiverr: https://www.fiverr.com/omarfaruk181?up_rollout=true
+     Fiverr: https://www.fiverr.com/omarfaruk181
      Upwork: https://www.upwork.com/freelancers/~01314f004631998ab6
      Freelancer: https://www.freelancer.com/u/omar181
-     Peopleperhour: https://www.peopleperhour.com/freelancer/omar-faruk-react-js-front-end-developer-qvxnqmx
+ 
 
