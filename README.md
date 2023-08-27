@@ -57,10 +57,8 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="30"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developeromarfaruk&show_icons=true&locale=en&layout=compact" alt="developeromarfaruk" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developeromarfaruk&show_icons=true&theme=radical&title_color=bd0078&text_color=0090c3&locale=en&layout=compact" alt="developeromarfaruk" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developeromarfaruk&show_icons=true&locale=en" alt="developeromarfaruk" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developeromarfaruk&" alt="developeromarfaruk" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developeromarfaruk&show_icons=true&theme=radical&title_color=bd0078&text_color=0091c2&locale=en" alt="developeromarfaruk" /></p>
  
 
