@@ -1,5 +1,5 @@
 
-<div align="center"> <img src="https://github.com/DeveloperOmarFaruk/DeveloperOmarFaruk/blob/main/Blue%20Modern%20Marketing%20Manager%20LinkedIn%20Banner%20(1).png?raw=true" alt="developeromarfaruk" /> </div>
+<div align="center"> <img src="https://github.com/DeveloperOmarFaruk/DeveloperOmarFaruk/blob/main/Blue_Modern_Marketing_Manager_LinkedIn_Banner__1_-removebg-preview.png?raw=true" alt="developeromarfaruk" /> </div>
 <h1 align="center">Hi 👋, I'm Omar Faruk</h1>
 <h3 align="center">Software QA Engineer</h3>
 
