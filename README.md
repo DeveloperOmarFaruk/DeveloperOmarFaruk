@@ -32,7 +32,7 @@
 
 
 <h3 align="left">SQA Tools:</h3>
-<p align="left"><a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="jira" width="40" height="35"/> </a> 
+<p align="left"><a href="https://www.atlassian.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="jira" width="40" height="35"/> </a> 
 <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Apache_Feather_Logo.svg/1200px-Apache_Feather_Logo.svg.png" alt="jmeter" width="40" height="35"/> </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="37"/> </a>  
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="35"/> </a> 
