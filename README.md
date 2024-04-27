@@ -5,9 +5,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developeromarfaruk&label=Profile%20views&color=0e75b6&style=flat" alt="developeromarfaruk" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4516939d8c0ca8859a6bb2c046311baf3d877c4852b8237ee2c144c5109cfc07/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313733323336382f73637265656e73686f74732f363535333837322f7765625f646576656c6f7065722e676966"/>
 
-- 🔭 I’m currently working on **Marketplace (Fiverr)**
+<p align="right"> <img  alt="Coding" width="400" src="https://img.freepik.com/premium-photo/vector-illustration-process-software-development-flat-design-minimalism-style-computer-screen-displaying-code-gear-cog-symbolizing-technology-lightbulb-representing-innovation_960782-107258.jpg?w=826"/> </p>
+
+
+
+
+
+- 🔭 I’m currently working on **Marketplace**
 
 - 🌱 I’m currently learning **Manual Testing || Automation Testing**
 
