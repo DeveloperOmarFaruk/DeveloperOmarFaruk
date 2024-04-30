@@ -6,7 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developeromarfaruk&label=Profile%20views&color=0e75b6&style=flat" alt="developeromarfaruk" /> </p>
 
 
-<p align="right"> <img  alt="Coding" width="400" src="https://img.freepik.com/premium-photo/vector-illustration-process-software-development-flat-design-minimalism-style-computer-screen-displaying-code-gear-cog-symbolizing-technology-lightbulb-representing-innovation_960782-107258.jpg?w=826"/> </p>
+<p align="center"> <img  alt="Coding" width="1200" src="https://as2.ftcdn.net/v2/jpg/05/39/88/85/1000_F_539888570_Ulna4F8TWGuP0TNmcs5GJNk9jxxnMzYU.jpg"/> 
+
+</p>
 
 
 
