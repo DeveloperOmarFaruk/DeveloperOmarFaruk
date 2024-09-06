@@ -14,9 +14,9 @@
 
 
 
-- 🔭 I’m currently working on **Marketplace**
+- 🔭 I’m currently working on **Fleek Bangladesh**
   
-- 🌱 I’m currently learning **Node JS || MongoDB || Data Structure || Algorithm's**
+- 🌱 I’m currently learning **Node JS || MongoDB || Data Structure || Algorithm's || Web Scraping || Script || Automation**
 
 - 👯 I’m looking to collaborate on **JavaScript || Java**
   
