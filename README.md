@@ -1,5 +1,5 @@
 
-<div align="center"> <img src="https://github.com/DeveloperOmarFaruk/DeveloperOmarFaruk/blob/main/Jr.SoftEngBanner.png?raw=true" alt="developeromarfaruk" /> </div>
+<div align="center"> <img src="https://github.com/DeveloperOmarFaruk/DeveloperOmarFaruk/blob/main/Jr.SoftEngBannerUpdated.png?raw=true" alt="developeromarfaruk" /> </div>
 <h1 align="center">Hi 👋, I'm Omar Faruk</h1>
 <h3 align="center">Junior Software Engineer at Fleek Bangladesh</h3>
 
