@@ -1,7 +1,7 @@
 
 <div align="center"> <img src="https://github.com/DeveloperOmarFaruk/DeveloperOmarFaruk/blob/main/Jr.SoftEngBannerUpdated.png?raw=true" alt="developeromarfaruk" /> </div>
 <h1 align="center">Hi 👋, I'm Omar Faruk</h1>
-<h3 align="center">Junior Software Engineer at Fleek Bangladesh</h3>
+<h3 align="center">Junior Software Engineer at UpscaleBD Ltd.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developeromarfaruk&label=Profile%20views&color=0e75b6&style=flat" alt="developeromarfaruk" /> </p>
 
