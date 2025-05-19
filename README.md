@@ -14,7 +14,7 @@
 
 
 
-- 🔭 I’m currently working on **Fleek Bangladesh**
+- 🔭 I’m currently working on **UpscaleBD Ltd.**
   
 - 🌱 I’m currently learning **Node JS || MongoDB || Data Structure || Algorithm's || Web Scraping || Script || Automation**
 
