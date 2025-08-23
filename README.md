@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developeromarfaruk&label=Profile%20views&color=0e75b6&style=flat" alt="developeromarfaruk" /> </p>
 
 
-<p align="center"> <img  alt="Coding" width="1200" src="https://as2.ftcdn.net/v2/jpg/05/39/88/85/1000_F_539888570_Ulna4F8TWGuP0TNmcs5GJNk9jxxnMzYU.jpg"/> 
+<p align="center"> <img  alt="Coding" width="1200" src="https://github.com/DeveloperOmarFaruk/DeveloperOmarFaruk/blob/main/SDLC.jpg"/> 
 
 </p>
 
