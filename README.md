@@ -128,7 +128,7 @@ Feel free to reach out!
 <div align="center">
 <br/>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&fontAlignY=40&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=header&fontAlignY=40&animation=twinkling" width="100%"/>
 </p>
 <p align="center">
   <a href="https://github.com/developeromarfaruk">
@@ -136,7 +136,7 @@ Feel free to reach out!
   </a>
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer" width="100%"/>
 </p>
   
 </div>
