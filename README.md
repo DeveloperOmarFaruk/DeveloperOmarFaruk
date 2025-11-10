@@ -142,13 +142,3 @@ Feel free to reach out!
 </div>
 
 
-<p align="center">
-  <a href="https://github.com/developeromarfaruk">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&quotesColor=BD0078&backgroundColor=0D1117" alt="Random Dev Quote"/>
-  </a>
-</p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&fontAlignY=40&animation=confetti&text=Happy%20Coding!&fontSize=30"/>
-</div> -->
-
