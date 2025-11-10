@@ -9,7 +9,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=1200&color=0E75B6&center=true&vCenter=true&width=600&lines=Junior+Software+Engineer+at+UpscaleBD+Ltd.;Building+Amazing+Web+Applications;Passionate+About+Clean+Code+and+User+Experiences" alt="Subtitle Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=1200&color=0E75B6&center=true&vCenter=true&width=700&lines=Junior+Software+Engineer+at+UpscaleBD+Ltd.;Building+Amazing+Web+Applications;Passionate+About+Clean+Code+and+User+Experiences" alt="Subtitle Typing SVG" />
 </h3>
 
 <p align="left">
