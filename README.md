@@ -127,17 +127,17 @@ Feel free to reach out!
 
 <div align="center">
 <br/>
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=header&fontAlignY=40&animation=twinkling" width="100%"/>
-</p>
+</p> -->
 <p align="center">
   <a href="https://github.com/developeromarfaruk">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Dev Quote"/>
   </a>
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer" width="100%"/>
-</p>
+</p> -->
   
 </div>
 
