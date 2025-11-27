@@ -12,9 +12,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=1200&color=0E75B6&center=true&vCenter=true&width=700&lines=Junior+Software+Engineer+at+UpscaleBD+Ltd.;Building+Amazing+Web+Applications;Passionate+About+Clean+Code+and+User+Experiences" alt="Subtitle Typing SVG" />
 </h3>
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://komarev.com/ghpvc/?username=developeromarfaruk&label=Profile%20Views&color=0E75B6&style=flat-square&logoColor=BD0078" alt="developeromarfaruk" />
-</p>
+</p> -->
 
 <div align="center">
   <img src="https://github.com/DeveloperOmarFaruk/DeveloperOmarFaruk/blob/main/SDLC.jpg" alt="SDLC Diagram" width="70%" style="border-radius: 10px;"/>
