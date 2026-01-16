@@ -31,7 +31,7 @@ I'm Omar Faruk, a Junior Software Engineer based in Bangladesh, currently contri
 ## 🚀 My Current Focus & Aspirations
 
 *   **Working On:** Enhancing web applications at **UpscaleBD Ltd.**
-*   **Learning:** Deepening my understanding of **Node.js, MongoDB, Data Structures & Algorithms, Web Scraping, Scripting, and Automation.**
+*   **Learning:** Deepening my understanding of **Node.js, MongoDB, Data Structures & Algorithms, React Native.**
 *   **Collaboration:** Eager to collaborate on projects involving **JavaScript and Java.**
 *   **Experience:** Proven experience in both **Manual Testing and Automation Testing.**
 
