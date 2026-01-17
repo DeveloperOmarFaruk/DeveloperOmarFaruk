@@ -54,13 +54,13 @@ Feel free to reach out!
 ## 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://twitter.com/@omarfaruk_181" target="_blank">
+  <a href="https://twitter.com/@omarfaruk_181/" target="_blank">
     <img src="https://img.shields.io/twitter/follow/@omarfaruk_181?label=Twitter&logo=twitter&color=0E75B6&style=flat-square" alt="Twitter" height="30"/>
   </a>
-  <a href="https://linkedin.com/in/omarfaruk181" target="_blank">
+  <a href="https://linkedin.com/in/omarfaruk181/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0E75B6?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
   </a>
-  <a href="https://instagram.com/omarfaruk181" target="_blank">
+  <a href="https://instagram.com/omarfaruk181/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" height="30"/>
   </a>
 </p>
