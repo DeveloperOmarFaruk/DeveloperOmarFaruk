@@ -2,6 +2,7 @@
   <img src="https://github.com/DeveloperOmarFaruk/DeveloperOmarFaruk/blob/main/Md.%20Omar%20Faruk%20Github%20banner.png" alt="developeromarfaruk" width="100%"/>
 </div>
 
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2500&pause=1500&color=BD0078&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Omar+Faruk;Junior+Software+Engineer;Frontend+Developer;Always+Learning+New+Things!" alt="Typing SVG" />
 </h1>
