@@ -7,7 +7,7 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2500&pause=1500&color=BD0078&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Omar+Faruk;Mid-Level+Software+Engineer;React+JS+%F0%9F%91%8B%2C+Next+JS+Specialist;Frontend+Developer;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2500&pause=1500&color=BD0078&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Omar+Faruk;Mid-Level+Software+Engineer;React+JS+,+Next+JS+Specialist;Frontend+Developer;Always+Learning+New+Things!" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">
@@ -26,7 +26,7 @@
 
 ## 👋 About Me
 
-I'm Omar Faruk, a Mid-Level Software Engineer based in Bangladesh, currently contributing to building innovative web applications at **Interlink TechSoft Limited** I have a strong passion for crafting clean, efficient, and user-friendly code, with a particular focus on frontend development. I'm a continuous learner, always eager to explore new technologies and expand my skillset in areas like Node.js, MongoDB, Data Structures, Algorithms, and Web Scraping.
+I'm Omar Faruk, a Mid-Level Software Engineer based in Bangladesh, currently contributing to building innovative web applications at **Interlink TechSoft Limited**. I have a strong passion for crafting clean, efficient, and user-friendly code, with a particular focus on frontend development. I'm a continuous learner, always eager to explore new technologies and expand my skillset in areas like Node.js, MongoDB, Data Structures, Algorithms, and Web Scraping.
 
 ---
 
