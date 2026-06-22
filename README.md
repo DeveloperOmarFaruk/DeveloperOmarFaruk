@@ -7,11 +7,11 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2500&pause=1500&color=BD0078&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Omar+Faruk;Mid-Level+Software+Engineer;React+Next.js+Specialist;Frontend+Developer;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2500&pause=1500&color=BD0078&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Omar+Faruk;Mid-Level+Software+Engineer;React+JS+%F0%9F%91%8B%2C+Next+JS+Specialist;Frontend+Developer;Always+Learning+New+Things!" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=1200&color=0E75B6&center=true&vCenter=true&width=700&lines=Mid-Level+Software+Engineer+at+UpscaleBD+Ltd.;Building+Amazing+Web+Applications;Passionate+About+Clean+Code+and+User+Experiences" alt="Subtitle Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=1200&color=0E75B6&center=true&vCenter=true&width=1000&lines=Mid-Level+Software+Engineer+at+Interlink+TechSoft+Limited.;Building+Amazing+Web+Applications;Passionate+About+Clean+Code+and+User+Experiences" alt="Subtitle Typing SVG" />
 </h3>
 
 <!-- <p align="left">
@@ -26,13 +26,13 @@
 
 ## 👋 About Me
 
-I'm Omar Faruk, a Mid-Level Software Engineer based in Bangladesh, currently contributing to building innovative web applications at **UpscaleBD Ltd.** I have a strong passion for crafting clean, efficient, and user-friendly code, with a particular focus on frontend development. I'm a continuous learner, always eager to explore new technologies and expand my skillset in areas like Node.js, MongoDB, Data Structures, Algorithms, and Web Scraping.
+I'm Omar Faruk, a Mid-Level Software Engineer based in Bangladesh, currently contributing to building innovative web applications at **Interlink TechSoft Limited** I have a strong passion for crafting clean, efficient, and user-friendly code, with a particular focus on frontend development. I'm a continuous learner, always eager to explore new technologies and expand my skillset in areas like Node.js, MongoDB, Data Structures, Algorithms, and Web Scraping.
 
 ---
 
 ## 🚀 My Current Focus & Aspirations
 
-*   **Working On:** Enhancing web applications at **UpscaleBD Ltd.**
+*   **Working On:** Enhancing web applications at **Interlink TechSoft Limited**
 *   **Learning:** Deepening my understanding of **Node.js, MongoDB, Data Structures & Algorithms, React Native.**
 *   **Collaboration:** Eager to collaborate on projects involving **JavaScript and Java.**
 *   **Experience:** Proven experience in both **Manual Testing and Automation Testing.**
